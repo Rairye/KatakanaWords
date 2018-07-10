@@ -9,9 +9,9 @@ public class Question {
         this.correctAnswer = correctAnswer;
     }
     public String getQuestion(){
-        return this.question;
+        return question;
     }
     public String getCorrectAnswer(){
-        return this.correctAnswer;
+        return correctAnswer;
     }
 }
