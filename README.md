@@ -8,4 +8,6 @@ The QuestionManagerClass stores an ArrayList of Question objects. Its main funct
 
 The current version is simple but functional. Future versions would include a larger number of questions and some UI animation. 
 
-<b>Update: </b>
+<b>Updated July 14, 2018</b>
+
+New questions have been added. Also, the format has been changed so that 10 questions are picked randomly from the list of questions each time the user plays. Also, changes have been made to the UI to make it more user friendly.
