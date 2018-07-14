@@ -73,7 +73,7 @@ class QuestionManager {
         if (submittedAnswer.equalsIgnoreCase(result)) {
             correctAnswers++;
             return "Correct!";
-        } else{
+        } else {
             return "Incorrect! Correct answer: " + thisQuestion.getCorrectAnswer();
         }
     }
