@@ -7,3 +7,5 @@ The question class contains only two fields, question and correctAnswer, and two
 The QuestionManagerClass stores an ArrayList of Question objects. Its main functions are to return instances of Question to the MainActivity, check if user's answer is correct, give feedback about the user's answer, count the number of correct answers, and then return the final results at the end of the quiz.
 
 The current version is simple but functional. Future versions would include a larger number of questions and some UI animation. 
+
+<b>Update: </b>
