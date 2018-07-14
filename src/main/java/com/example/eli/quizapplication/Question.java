@@ -1,17 +1,20 @@
 package com.example.eli.quizapplication;
 
 
-public class Question {
+class Question {
     private String question;
     private String correctAnswer;
-    public Question(String question, String correctAnswer){
+
+    Question(String question, String correctAnswer){
         this.question = question;
         this.correctAnswer = correctAnswer;
     }
-    public String getQuestion(){
-        return question;
+
+    String getQuestion(){
+        return this.question;
     }
-    public String getCorrectAnswer(){
-        return correctAnswer;
+
+    String getCorrectAnswer(){
+        return this.correctAnswer;
     }
 }
