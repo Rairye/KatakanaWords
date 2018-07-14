@@ -35,7 +35,7 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View view) {
                 if (!answerText.getText().toString().equals("")) {
                     submitAnswer();
-                } else{
+                } else {
                     answerText.requestFocus();
                 }
             }
@@ -114,7 +114,7 @@ public class MainActivity extends AppCompatActivity {
             progressText.setText("");
             resultText.setText(questionManager.getFinalScore());
             submitButton.setClickable(false);
-        } else{
+        } else {
             answerText.setText("");
             currentQuestionNumber++;
             t.start();
