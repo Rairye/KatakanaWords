@@ -1,4 +1,4 @@
-Sample Android quiz app for practicing waseigo ("Japanese English" such as "ワイシャツ") and non-English (such as "アルバイト") katakana words.
+Sample Android quiz app for practicing waseieigo ("Japanese English" such as "ワイシャツ") and non-English (such as "アルバイト") katakana words.
 
 Java source files can be found here: https://github.com/Rairye/KatakanaWords/tree/master/src/main/java/com/example/eli/quizapplication
 
